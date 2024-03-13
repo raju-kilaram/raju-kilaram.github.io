@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.339c5bcb.chunk.css",
-    "main.js": "/static/js/main.da2959bf.chunk.js",
-    "main.js.map": "/static/js/main.da2959bf.chunk.js.map",
+    "main.js": "/static/js/main.ad9265ed.chunk.js",
+    "main.js.map": "/static/js/main.ad9265ed.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.6217bacf.js",
     "runtime-main.js.map": "/static/js/runtime-main.6217bacf.js.map",
     "static/css/2.2280284b.chunk.css": "/static/css/2.2280284b.chunk.css",
@@ -13,21 +13,16 @@
     "static/css/main.339c5bcb.chunk.css.map": "/static/css/main.339c5bcb.chunk.css.map",
     "static/js/2.feb848ed.chunk.js.LICENSE.txt": "/static/js/2.feb848ed.chunk.js.LICENSE.txt",
     "static/media/Resume.773a513b.pdf": "/static/media/Resume.773a513b.pdf",
-    "static/media/coast.54b1b992.jpg": "/static/media/coast.54b1b992.jpg",
-    "static/media/cosmos.19ad0934.jpg": "/static/media/cosmos.19ad0934.jpg",
     "static/media/developer.23e159be.jpg": "/static/media/developer.23e159be.jpg",
-    "static/media/dropship.b52fa0a1.jpg": "/static/media/dropship.b52fa0a1.jpg",
-    "static/media/goodFoodDiscounts.9b9dd889.png": "/static/media/goodFoodDiscounts.9b9dd889.png",
-    "static/media/hsp.40c6e624.png": "/static/media/hsp.40c6e624.png",
+    "static/media/forex.ca35e423.jpg": "/static/media/forex.ca35e423.jpg",
     "static/media/kilaram.ed9898e1.jpg": "/static/media/kilaram.ed9898e1.jpg",
-    "static/media/techspec.3b34aad0.png": "/static/media/techspec.3b34aad0.png",
-    "static/media/travelwell.772033dc.png": "/static/media/travelwell.772033dc.png"
+    "static/media/sslo.28c17112.jpg": "/static/media/sslo.28c17112.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.6217bacf.js",
     "static/css/2.2280284b.chunk.css",
     "static/js/2.feb848ed.chunk.js",
     "static/css/main.339c5bcb.chunk.css",
-    "static/js/main.da2959bf.chunk.js"
+    "static/js/main.ad9265ed.chunk.js"
   ]
 }
